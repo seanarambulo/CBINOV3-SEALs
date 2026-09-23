@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { playTTS } from "@/lib/ttsClient";
 
 // Hash Map structure for tile entries
 interface TileHashMap {
@@ -42,9 +43,10 @@ export default function Home() {
       });
   }, []);
 
-  // Display pressed tile text in the status bar
+  // Display pressed tile text in the status bar and play TTS
   const handleTilePress = (word: string) => {
     setActiveWord(word);
+    playTTS(word, volume);
   };
 
   return (
