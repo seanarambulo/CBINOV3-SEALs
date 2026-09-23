@@ -1,0 +1,33 @@
+{
+    "words": {
+        "Pangangailangan (Needs)":[
+            "Tubig",
+            "CR / Banyo",
+            "Masakit",
+            "Masakit",
+            "Pagod",
+            "Tulong",
+            "Kain",
+            "Inom"
+        ],
+        "Oo/Hindi/Tigil (Yes/No/Stop)":[
+            "Oo",
+            "Hindi",
+            "Tigil",
+            "Teka / Sandali",
+            "Ayoko"
+        ],
+        "Tao (People)":[
+            "Mama / Nanay",
+            "Teacher / Guro"
+        ],
+        "Damdamin (Feelings)":[
+            "Masaya",
+            "Lungkot",
+            "Galit"
+        ]
+
+
+
+    }    
+}
