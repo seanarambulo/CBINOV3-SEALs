@@ -2,7 +2,7 @@
     "words": {
         "Pangangailangan (Needs)":[
             "Tubig",
-            "CR / Banyo",
+            "Banyo",
             "Masakit",
             "Masakit",
             "Pagod",
@@ -14,12 +14,12 @@
             "Oo",
             "Hindi",
             "Tigil",
-            "Teka / Sandali",
+            "Sandali",
             "Ayoko"
         ],
         "Tao (People)":[
-            "Mama / Nanay",
-            "Teacher / Guro"
+            "Nanay",
+            "Guro"
         ],
         "Damdamin (Feelings)":[
             "Masaya",
@@ -27,9 +27,9 @@
             "Galit"
         ],
         "Karaniwang Hiling (Common requests)":[
-            "Pa - more",
-            "Pakisuyo / Paki- please",
-            "Tapos na - done/finished"
+            "Gusto ko pa",
+            "Pakisuyo",
+            "Tapos na"
         ]
 
 
