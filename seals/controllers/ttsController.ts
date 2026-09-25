@@ -20,7 +20,6 @@ export async function generateTTSAudio(text: string): Promise<Buffer | null> {
       }
     );
 
-    // The ElevenLabs SDK returns a stream. We collect the chunks and turn them into a Buffer
     const chunks: any[] = [];
     for await (const chunk of response) {
       chunks.push(chunk);
