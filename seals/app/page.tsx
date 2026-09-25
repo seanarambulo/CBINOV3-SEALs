@@ -34,7 +34,7 @@ export default function Home() {
               label: word,
               category: categoryName,
               // Converts e.g. "I Want" to "/gifs/i-want.gif"
-              gifPath: `/gifs/${word.toLowerCase().replace(/\\s+/g, '-').replace(/[^a-z0-9-]/g, '')}.gif`,
+              gifPath: `/gifs/${word.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}.gif`,
             });
           });
         }
