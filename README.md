@@ -72,7 +72,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/seanarambulo/CBINOV3-SEALs.git
+   git clone https://github.com/mors-incarnatum/CBINOV3-SEALs.git
    ```
 2. Go to Project Directory
     ```sh
@@ -86,7 +86,8 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
    ```sh
    npm run dev
    ```
-
+5. Open http://localhost:3000 in your browser.
+  
 
 <!-- USAGE EXAMPLES
 ## Usage
@@ -132,8 +133,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/seanarambulo/CBINOV3-SEALs/graphs/contributors?from=6%2F20%2F2026">
-  <img src="https://contrib.rocks/image?repo=seanarambulo/CBINOV3-SEALs" alt="contrib.rocks image" />
+<a href="https://github.com/mors-incarnatum/CBINOV3-SEALs/graphs/contributors?from=6%2F20%2F2026">
+  <img src="https://contrib.rocks/image?repo=mors-incarnatum/CBINOV3-SEALs" alt="contrib.rocks image" />
 </a>
 
 
@@ -171,8 +172,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/seanarambulo/CBINOV3-SEALs/graphs/contributors?from=6%2F20%2F2026
+[contributors-shield]: https://img.shields.io/github/contributors/mors-incarnatum/CBINOV3-SEALs.svg?style=for-the-badge
+[contributors-url]: https://github.com/mors-incarnatum/CBINOV3-SEALs/graphs/contributors?from=6%2F20%2F2026
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
